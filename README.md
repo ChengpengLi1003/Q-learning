@@ -3,6 +3,7 @@ python3
 # 环境需求
 gym
 pip install gym #可以在命令行中通过此命令安装pip
+
 numpy
 pip install numpy #可以在命令行中通过此命令安装pip
 # Q-learning
